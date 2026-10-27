@@ -1,0 +1,6 @@
+{
+  "name": "Tiên Hiệp Dịch – AI Novel Translator",
+  "description": "Ứng dụng chuyên nghiệp đọc và dịch tiểu thuyết Trung Quốc (tiên hiệp, huyền huyễn, kiếm hiệp) sang tiếng Việt trực tiếp từ URL với Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
